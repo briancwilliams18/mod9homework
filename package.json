@@ -2,7 +2,8 @@
   "name": "mod9homework",
   "version": "1.0.0",
   "description": "I WANT a README generator SO THAT I can quickly create a professional README for a new project",
-  "main": "script.js",
+  "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.10"
+    "inquirer": "^8.2.4"
   }
 }
